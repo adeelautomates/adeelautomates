@@ -7,7 +7,7 @@ I believe understanding the reasoning behind a solution is just as important as 
 
 The channel started with a strong focus on PowerShell, and I'm now expanding into Terraform, pipelines, containers, and more as I continue building new content.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/adeelautomates">
     <img src="https://skillicons.dev/icons?i=azure,powershell,terraform,github,docker" />
   </a>
